@@ -8,7 +8,19 @@
 ![](https://github-readme-stats.shion.dev/api?username=dtam-L&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=dtam-L&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=dtam-L&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 📊 Activity & Contributions
 
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TEN_GITHUB_CUA_BAN&bg_color=141821&color=00FFFF&line=00FFFF&point=FF5722&area_color=141821&area=true&hide_border=true&custom_title=Trịnh%20Hoàng%20Tú's%20Contribution%20Graph" alt="Activity Graph" />
+</a>
+
+<br/>
+
+### 🟩 Contribution Graph
+
+<a href="https://github.com/TEN_GITHUB_CUA_BAN">
+  <img src="https://ghchart.rshah.org/219138/TEN_GITHUB_CUA_BAN" alt="Contribution Graph" />
+</a>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dtam-L&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
