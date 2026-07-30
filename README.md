@@ -6,31 +6,13 @@
 Here are some ideas to get you started:
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=dtam-L&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=dtam-L&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=dtam-L&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dtam-L&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+###  Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dtam-L&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-### 🔝 Top Contributed Repo
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=70&lines=Tr%E1%BB%8Bnh+Ho%C3%A0ng+T%C3%BA;Backend+%7C+Software+Engineer+%7C+DevOps;DevSecOps+%7C+Blue+Team" alt="Typing SVG" />
@@ -51,45 +33,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 👨💻 About Me
-
-<table>
-<tr>
-<td width="50%">
-
-
-<div align="center">
-
-**Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=cs,dotnet,python,java,ts,js,nodejs,django,fastapi&theme=dark" />
-
-**Cloud & DevOps**
-<img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,docker,terraform,linux,kali,git,github,githubactions&theme=dark" />
-
-**Databases & Tools**
-<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,supabase,firebase,visualstudio,vscode,pycharm,idea&theme=dark" />
-
-**Security Tools (Learning & Using)**
-<img src="https://img.shields.io/badge/Wazuh-3C99DC?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logoColor=white" />
-
-</div>
-
----
-
-## 📊 Activity & Contributions
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thtcsec&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=4" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thtcsec&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B35" width="95%" />
-</div>
-
-<br/>
-
 ## 🐍 Contribution Graph
 
 <div align="center">
@@ -97,22 +40,3 @@ Here are some ideas to get you started:
 </div>
 
 ---
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:tht.csec2005@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/thtcsec)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117)](https://fb.com/thtcsec)
-
-<br/>
-
-*"Code with purpose, secure with passion"*
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=thtcsec&style=flat-square&color=00D4FF&labelColor=0D1117" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/thtcsec?style=flat-square&color=00D4FF&labelColor=0D1117" alt="Followers" />
-
-</div>
