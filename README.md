@@ -1,4 +1,19 @@
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=70&lines=%C4%90%E1%BA%B6NG+V%C4%82N+T%C3%82M;Data+Scientist+%7C+Data+Analyst;DevOps" alt="Typing SVG" />
+  
+  <p><em>Continuously learning and building secure, scalable applications</em></p>
+  
+  <a href="mailto:danggtaam@gmail.com">
+    <img src="https://img.shields.io/badge/Open_to_Opportunities-00D4FF?style=for-the-badge&labelColor=0D1117" alt="Open to Opportunities"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dtam-L&theme=github_dark" alt="GitHub Stats" />
+</div>
 *Data Scientist | Storyteller | Problem Solver**
 
 I turn complex data into actionable insights. I'm passionate about finding the hidden patterns in messy datasets and building models that drive real-world decisions.
@@ -18,22 +33,7 @@ I turn complex data into actionable insights. I'm passionate about finding the h
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=70&lines=%C4%90%E1%BA%B6NG+V%C4%82N+T%C3%82M;Data+Scientist+%7C+Data+Analyst;DevOps" alt="Typing SVG" />
-  
-  <p><em>Continuously learning and building secure, scalable applications</em></p>
-  
-  <a href="mailto:danggtaam@gmail.com">
-    <img src="https://img.shields.io/badge/Open_to_Opportunities-00D4FF?style=for-the-badge&labelColor=0D1117" alt="Open to Opportunities"/>
-  </a>
-</div>
 
-<br/>
-
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dtam-L&theme=github_dark" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=dtam-L&theme=react&background=0D1117&border=30363D&hide_border=true&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF" alt="GitHub Streak" />
-</div>
 
 ## 🐍 Contribution Graph
 
