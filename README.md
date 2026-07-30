@@ -14,13 +14,21 @@
 <div align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dtam-L&theme=github_dark" alt="GitHub Stats" />
 </div>
-*Data Scientist | Storyteller | Problem Solver**
+### 💡 Data Scientist | Data Analyst | Problem Solver
 
-I turn complex data into actionable insights. I'm passionate about finding the hidden patterns in messy datasets and building models that drive real-world decisions.
+Welcome to my GitHub! I am deeply passionate about the intersection of data, human behavior, and business strategy. I specialize in transforming complex, unstructured data into strategic, actionable insights. 
 
-### 🔭 Currently Working On:
-* Analyzing customer churn in the [Industry] sector.
-* Writing about data science concepts
+For me, data science is more than just writing code or training models; it's about **storytelling through data**. I thrive on unraveling hidden patterns within messy datasets, engineering meaningful features, and architecting robust machine learning models that bridge the gap between technical complexity and real-world business solutions. I believe that a great model is only as good as the decisions it empowers.
+
+**🎯 What I bring to the table:**
+- **Analytical Rigor:** Deep diving into data to extract signal from noise.
+- **Data Storytelling:** Communicating complex technical findings to non-technical stakeholders clearly and effectively.
+- **End-to-End Problem Solving:** From data wrangling and exploratory data analysis (EDA) to model deployment and monitoring.
+
+**🔭 Currently Working On:**
+- 🔍 **Predictive Analytics:** Developing and fine-tuning customer churn prediction models for the **[Industry/Ví dụ: E-commerce]** sector. My focus is on identifying key risk factors and recommending proactive retention strategies.
+- ✍️ **Knowledge Sharing:** Writing technical articles and comprehensive guides to demystify advanced data science concepts, algorithms, and best practices for the community.
+- 🌱 **Continuous Learning:** Exploring new frameworks in MLOps and advanced data visualization techniques.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/angtam.247838) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/%C4%91%E1%BA%B7ng-t%C3%A2m-899631358/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danggtaam@gmail.com) 
 # 💻 Tech Stack:
