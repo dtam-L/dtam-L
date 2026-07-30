@@ -1,18 +1,6 @@
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/angtam.247838) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/%C4%91%E1%BA%B7ng-t%C3%A2m-899631358/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danggtaam@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dtam-L&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=70&lines=Tr%E1%BB%8Bnh+Ho%C3%A0ng+T%C3%BA;Backend+%7C+Software+Engineer+%7C+DevOps;DevSecOps+%7C+Blue+Team" alt="Typing SVG" />
   
@@ -38,69 +26,6 @@
 <tr>
 <td width="50%">
 
-🎓 **3rd Year Cybersecurity Student** @ HUFLIT  
-📍 Ho Chi Minh City, Vietnam 🇻🇳  
-💼 **Backend** | **Software Engineer** | **DevOps** | **DevSecOps** | **Blue Team**
-
-**My Journey:**
-- 💻 **Software Development:** Focused on clean, maintainable code with .NET & Python.
-- 🔐 **Security:** Exploring Blue Team operations and automated incident response.
-- 🐳 **DevOps:** Learning to automate infrastructure and CI/CD pipelines.
-- 🤖 **AI Integration:** Applying AI models to solve real-world problems.
-
-</td>
-<td width="50%">
-
-**Academic Background:**
-- 🏆 **LeetCode:** 900+ Problems Solved
-- 📊 **GPA:** 3.50/4.0
-- 🏛️ Member of **GDG HCMC** and **AWS FCAJ**
-- ☁️ Learning and practicing on **AWS & GCP**
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 Awards & Honors
-- **Top 7 Finalist** - MUGVN x MongoDB Mini Hackathon 2026 (MongoDB)
-- **Top 10 Finalist** - The Gridbreakers Datathon 2026 (VinUniversity & Vintelligence)
-- **Top 10 Finalist** - Tasco Foundry 2026 (GenAIFund x Tasco)
-- **2nd Runner Up** - GenAI Express Demo Day, Google Developer Group On Campus SGU 2026
-- **Winner** - Hoa Sen University Vibe Coding Talents 2025
-- **Outstanding Student of the Year 2023** - Bu Dang District, Binh Phuoc Province
-
-## 🤝 Leadership & Activities
-- **Cloud Solutions Researcher Intern**, Jun 2026
-- **Agora Developer Ambassador**, Mar 2026
-- **Google Student Ambassador**, Feb 2026 - HUFLIT
-
----
-
-## 🚀 Selected Projects
-
-### 🛡️ Multi-Cloud Serverless SOAR Platform
-**[AWS Code](https://github.com/thtcsec/AWS-Serverless-SOAR) | [GCP Code](https://github.com/thtcsec/GCP-Serverless-SOAR) | Cloud Security & Automation**
-- An experimental multi-cloud (AWS & GCP) incident response pipeline using Serverless architecture.
-- Implemented basic automated resource isolation and threat intel enrichment.
-- **Stack:** Terraform, Python, AWS Step Functions, GCP Cloud Workflows, EventBridge.
-
-### 🎥 CTSmartCam — AI-Powered Security Surveillance CMS
-**System Design | Computer Vision**
-- A surveillance management system integrating AI for real-time object detection.
-- Utilizes an event-driven architecture with SignalR for monitoring and Wazuh for basic HIDS.
-- **Stack:** ASP.NET Core 9, YOLOv11, SignalR, Redis, Docker, PostgreSQL.
-
-### 🎓 AI-Powered LMS — [toanvotruongtoan.com](https://toanvotruongtoan.com)
-**Full-Stack Development**
-- A production-ready platform serving students with automated exam generation.
-- Implemented with a focus on security best practices like Supabase RLS and Rate Limiting.
-- **Stack:** React, TypeScript, Supabase, Vercel, Gemini AI.
-
----
-
-## ⚡ Technical Skills
 
 <div align="center">
 
