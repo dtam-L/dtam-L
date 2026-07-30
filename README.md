@@ -14,7 +14,7 @@
 <div align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dtam-L&theme=github_dark" alt="GitHub Stats" />
 </div>
-### 💡 Data Scientist | Data Analyst | Problem Solver
+ 💡 Data Scientist | Data Analyst | Problem Solver
 
 Welcome to my GitHub! I am deeply passionate about the intersection of data, human behavior, and business strategy. I specialize in transforming complex, unstructured data into strategic, actionable insights. 
 
